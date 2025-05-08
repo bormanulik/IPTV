@@ -2026,45 +2026,6 @@ http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTGRP:КиноЗал18+
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="Pornbox 10 HD" tvg-logo="http://www.pornbox.xxx/web/images/pornboxlogo.gif" group-title="КиноЗал18+", Pornbox 10 HD
-#EXTGRP:КиноЗал18+
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/159974
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="Pornbox 11 HD" tvg-logo="http://www.pornbox.xxx/web/images/pornboxlogo.gif" group-title="КиноЗал18+", Pornbox 11 HD
-#EXTGRP:КиноЗал18+
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/159975
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="Pornbox 12 HD" tvg-logo="http://www.pornbox.xxx/web/images/pornboxlogo.gif" group-title="КиноЗал18+", Pornbox 12 HD
-#EXTGRP:КиноЗал18+
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/159963
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="Pornbox 13 HD" tvg-logo="http://www.pornbox.xxx/web/images/pornboxlogo.gif" group-title="КиноЗал18+", Pornbox 13 HD
-#EXTGRP:КиноЗал18+
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/159985
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="Pornbox 2 HD" tvg-logo="http://www.pornbox.xxx/web/images/pornboxlogo.gif" group-title="КиноЗал18+", Pornbox 2 HD
-#EXTGRP:КиноЗал18+
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/159965
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="Pornbox 3 HD" tvg-logo="http://www.pornbox.xxx/web/images/pornboxlogo.gif" group-title="КиноЗал18+", Pornbox 3 HD
-#EXTGRP:КиноЗал18+
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/159966
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="Pornbox 4 HD" tvg-logo="http://www.pornbox.xxx/web/images/pornboxlogo.gif" group-title="КиноЗал18+", Pornbox 4 HD
-#EXTGRP:КиноЗал18+
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/159968
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="Pornbox 5 HD" tvg-logo="http://www.pornbox.xxx/web/images/pornboxlogo.gif" group-title="КиноЗал18+", Pornbox 5 HD
-#EXTGRP:КиноЗал18+
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/159969
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="Pornbox 6 HD" tvg-logo="http://www.pornbox.xxx/web/images/pornboxlogo.gif" group-title="КиноЗал18+", Pornbox 6 HD
-#EXTGRP:КиноЗал18+
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/159970
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="Pornbox 7 HD" tvg-logo="http://www.pornbox.xxx/web/images/pornboxlogo.gif" group-title="КиноЗал18+", Pornbox 7 HD
-#EXTGRP:КиноЗал18+
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/159971
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="Pornbox 8 HD" tvg-logo="http://www.pornbox.xxx/web/images/pornboxlogo.gif" group-title="КиноЗал18+", Pornbox 8 HD
-#EXTGRP:КиноЗал18+
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/159972
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="Pornbox 9 HD" tvg-logo="http://www.pornbox.xxx/web/images/pornboxlogo.gif" group-title="КиноЗал18+", Pornbox 9 HD
-#EXTGRP:КиноЗал18+
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/159973
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="Pornbox HD" tvg-logo="http://www.pornbox.xxx/web/images/pornboxlogo.gif" group-title="КиноЗал18+", Pornbox HD
-#EXTGRP:КиноЗал18+
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/159964
 #EXTINF:-1 tvg-id="private-tv" tvg-name="Private HD" tvg-logo="https://app.playlistbox.com/icon/7WnrJEQpk2Dbj6xjRKx0eNRPLK49Odlv.png" group-title="КиноЗал18+", Private HD
 #EXTGRP:КиноЗал18+
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:fb:30:83&stream=201056&extension=m3u8
