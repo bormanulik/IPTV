@@ -15,8 +15,6 @@ http://cdn.adultiptv.net/blonde.m3u8
 http://cdn.adultiptv.net/blowjob.m3u8
 #EXTINF:-1  group-title="КиноЗал18+"  tvg-id="no_epg_xxx"   tvg-name="Cuckold HD", Cuckold HD
 http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1  group-title="КиноЗал18+"  tvg-id="no_epg_xxx"  tvg-logo="https://www.eropuls.de/out/flow/img/shoplogo.png"   tvg-name="Eropuls DE 18+", Eropuls DE 18+
-https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
 #EXTINF:-1  group-title="КиноЗал18+"  tvg-id="no_epg_xxx"   tvg-name="Fetish", Fetish
 http://cdn.adultiptv.net/fetish.m3u8
 #EXTINF:-1  group-title="КиноЗал18+"  tvg-id="no_epg_xxx"   tvg-name="Fetish HD", Fetish HD
@@ -53,8 +51,6 @@ http://live.redtraffic.xyz/pornstar.m3u8
 http://cdn.adultiptv.net/pov.m3u8
 #EXTINF:-1  group-title="КиноЗал18+"  tvg-id="no_epg_xxx"   tvg-name="POV HD 720", POV HD 720
 http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:-1  group-title="КиноЗал18+"  tvg-id="no_epg_xxx"   tvg-name="Rouge TV", Rouge TV
-http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1  group-title="КиноЗал18+"  tvg-id="no_epg_xxx"   tvg-name="Rough", Rough
 http://cdn.adultiptv.net/rough.m3u8
 #EXTINF:-1  group-title="КиноЗал18+"  tvg-id="no_epg_xxx"   tvg-name="Russian", Russian
@@ -283,7 +279,7 @@ https://video1.tizam.cc/films/Golden-Lotus.mp4
 https://video1.tizam.cc/films/Acts-Like-A-Virgin.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Дом Сновидений", Дом Сновидений
 https://video1.tizam.cc/vk/House-Of-Dreams.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Секс, ложь и Интернет", ложь и Интернет" tvg-logo="https://i.ibb.co/qMdJ4yz/s.png" group-title="Кино_пакет", Секс, ложь и Интернет
+#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Секс, ложь и Интернет", ложь и Интернет", ложь и Интернет" tvg-logo="https://i.ibb.co/qMdJ4yz/s.png" group-title="Кино_пакет", Секс, ложь и Интернет
 https://video1.tizam.cc/films/PrivateMovies10.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Проект X", Проект X
 https://video1.tizam.cc/films/Projet-X.mp4
@@ -395,7 +391,7 @@ https://video1.tizam.cc/films/SantoDomingoConnection.mp4
 https://video1.tizam.cc/old_films/Second-Coming-of-Eva.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Агент 00 Секс", Агент 00 Секс
 https://video1.tizam.cc/files/2512010/agent_00_seks___vo_vlasti_uragana.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="40 лет, Мой новый порочный образ жизни", Мой новый порочный образ жизни" tvg-logo="https://i.ibb.co/qMdJ4yz/s.png" group-title="Кино_пакет", 40 лет, Мой новый порочный образ жизни
+#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="40 лет, Мой новый порочный образ жизни", Мой новый порочный образ жизни", Мой новый порочный образ жизни" tvg-logo="https://i.ibb.co/qMdJ4yz/s.png" group-title="Кино_пакет", 40 лет, Мой новый порочный образ жизни
 https://video1.tizam.cc/old_films/40-ans-lage-duVice.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Эротические Приключения Красной Шапочки", Эротические Приключения Красной Шапочки
 https://video1.tizam.cc/top/CappuccettoRosso.mp4
@@ -427,7 +423,7 @@ https://video1.tizam.cc/vk/Pure-Obsession.mp4
 https://video1.tizam.cc/vk/Quandoledonnelofannodasole.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Морозные Ангелы", Морозные Ангелы
 https://video1.tizam.cc/vk/EiskalteAngel.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Элла, Секс Наркоманка", Секс Наркоманка" tvg-logo="https://i.ibb.co/qMdJ4yz/s.png" group-title="Кино_пакет", Элла, Секс Наркоманка
+#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Элла, Секс Наркоманка", Секс Наркоманка", Секс Наркоманка" tvg-logo="https://i.ibb.co/qMdJ4yz/s.png" group-title="Кино_пакет", Элла, Секс Наркоманка
 https://video1.tizam.cc/files/2483435/ella__the_sex_addict.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Каждый любит Люси", Каждый любит Люси
 https://video1.tizam.cc/files/2483437/everybody_loves_lucy.mp4
@@ -437,8 +433,6 @@ https://video1.tizam.cc/vk/EuroMILFsBritishMILFs.mp4
 https://video1.tizam.cc/vk/CaseChiuse.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Женщины в черном 2", Женщины в черном 2
 https://video1.tizam.cc/files/2469432/women_in_black_2.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Месть Дочери", Месть Дочери
-https://video1.tizam.cc/top/Lheritiere.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Мать и Дочь", Мать и Дочь
 https://video1.tizam.cc/files/2469437/une_mere_et_sa_fille__mother_and_daughter__versiya_hd.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="На Отправку 4", На Отправку 4
@@ -449,8 +443,6 @@ https://video1.tizam.cc/files/2467929/goryachiy_seks_v_san_trope.mp4
 https://video1.tizam.cc/vk/Drei-Dirndl-in-Paris.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Под прикрытием", Под прикрытием
 https://video1.tizam.cc/films/undercover.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Ариелла морская девственница", Ариелла морская девственница
-https://video2.tizam.cc/files/1396483/ariella___morskaya_devstvennitsa__rus.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Буйство Плоти", Буйство Плоти
 https://video1.tizam.cc/vk/BUISTVO_PLOTI.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Крюгер Парк", Крюгер Парк
@@ -485,80 +477,24 @@ https://video1.tizam.cc/files/2432621/private_gold_40___house_of_love__s_russkim
 https://video1.tizam.cc/files/2430775/9_1_2_weeks._xxx_version.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Фотогеничная сенсация", Фотогеничная сенсация
 https://video1.tizam.cc/vk/PhotogenicSensation.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Частная Жизнь Сильвии Ланком", Частная Жизнь Сильвии Ланком
-https://video2.tizam.cc/files/2421179/chastnaya_zhizn_silvii_lankom__chast_1.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Пневматическая Джоанна", Пневматическая Джоанна
-https://video2.tizam.cc/files/2420137/joannie_pneumatic.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Дочь Крестного Отца", Дочь Крестного Отца
 https://video1.tizam.cc/files/2421970/doch_krestnogo_ottsa__s_russkimi_subtitrami.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Русский институт: Урок 17", Русский институт: Урок 17
-https://video2.tizam.cc/files/2412734/russkiy_institut_urok_17__seks_urok.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Инициации Рокко 9", Инициации Рокко 9
-https://video2.tizam.cc/files/2412705/initsiatsii_rokko_9__s_russkim_perevodom.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Порно Войны: Эпизод 3", Порно Войны: Эпизод 3
 https://video1.tizam.cc/vk/PornWars3.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Журналистка", Журналистка
 https://video1.tizam.cc/top/La-journaliste.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="2040", 2040
-https://video2.tizam.cc/files/2398713/2040__2009.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="41 год, Изменяющие домохозяйки", Изменяющие домохозяйки" tvg-logo="https://i.ibb.co/qMdJ4yz/s.png" group-title="Кино_пакет", 41 год, Изменяющие домохозяйки
-https://video2.tizam.cc/files/2349995/pohotlivye_domohozyayki.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Наездницы", Наездницы
 https://video1.tizam.cc/films/PrivateBlackLabel51AssRiders.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Королева ночи", Королева ночи
 https://video1.tizam.cc/films/DrugQueen.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Личная жизнь Риты Фалтояно", Личная жизнь Риты Фалтояно
-https://video2.tizam.cc/files/2398767/lichnaya_zhizn_rity_faltoyano.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Секс в стиле Рок-Н-Ролл Рокко 2", Секс в стиле Рок-Н-Ролл Рокко 2
-https://video2.tizam.cc/files/2398944/rock_n_roll_rocco___2.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Британские Девственные Задницы", Британские Девственные Задницы
-https://video2.tizam.cc/files/2398820/britanskie_devstvennye_zadnitsy.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Домохозяйки Амбер Лэйн", Домохозяйки Амбер Лэйн
-https://video2.tizam.cc/files/2398862/domohozyayki_amber_leyn___housewives_of_amber_lane.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="В Поисках Привы", В Поисках Привы
-https://video2.tizam.cc/files/2398867/v_poiskah_privy___private_movies_31__discovering_priva.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Анальное Тропическое Гонзо", Анальное Тропическое Гонзо
-https://video2.tizam.cc/files/2398870/analnoe_tropicheskoe_gonzo.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Она единственная", Она единственная
-https://video2.tizam.cc/files/2398889/she_s_the_one__ona_edinstvennaya.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Правдивая Ложь", Правдивая Ложь
-https://video2.tizam.cc/files/2398893/pravdivaya_lozh__s_russkim_perevodom.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Обмен Жёнами", Обмен Жёнами
-https://video2.tizam.cc/files/2395425/shared_wives__obmen_zhyonami.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Скрытое Удовольствие", Скрытое Удовольствие
-https://video2.tizam.cc/files/2397551/skrytoe_udovolstvie___private_tropical_a_hidden_pleasure.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Личная жизнь Доры Вентер", Личная жизнь Доры Вентер
-https://video2.tizam.cc/files/2386060/chastnaya_zhizn_dory_venter__s_russkim_perevodom.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Кастинг Пьера Вудмана 21", Кастинг Пьера Вудмана 21
-https://video2.tizam.cc/files/2386078/kasting_pera_vudmana_21__s_russkim_perevodom.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Последний раз в большом сексе", Последний раз в большом сексе
 https://video1.tizam.cc/vk/JewelDeNylesLastMovie.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Кастинг Пьера Вудмана 8", Кастинг Пьера Вудмана 8
-https://video1.tizam.cc/vk/PrivateWoodmanCasting8.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Студентки по обмену", Студентки по обмену
-https://video2.tizam.cc/files/2389306/exchange_students__studentki_po_obmenu.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Кастинг Пьера Вудмана 5", Кастинг Пьера Вудмана 5
-https://video2.tizam.cc/files/2386081/kasting_pera_vudmana_5__s_russkim_perevodom.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Кастинг Пьера Вудмана 24", Кастинг Пьера Вудмана 24
-https://video2.tizam.cc/files/2386082/kasting_pera_vudmana_24__s_russkim_perevodom.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Рокко в Польше", Рокко в Польше
-https://video2.tizam.cc/files/2386138/rokko_v_polshe__s_russkim_perevodom.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Частная жизнь Софи Эванс", Частная жизнь Софи Эванс
 https://video1.tizam.cc/vk/PrivateLifeOfSophieEvans.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="С первого взгляда", С первого взгляда
-https://video2.tizam.cc/files/2382689/at_first_sight__s_pervogo_vzglyada.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Аннина суперзвезда", Аннина суперзвезда
-https://video2.tizam.cc/files/2379645/annina_superzvezda___annina_superstar.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Дают все: Фантазии Востока", Дают все: Фантазии Востока
-https://video2.tizam.cc/files/2379683/offertes_a_tout__7.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Стюардессы", Стюардессы
 https://video1.tizam.cc/top/FlyGirls.360.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Сучки Вечеринок", Сучки Вечеринок
-https://video2.tizam.cc/files/2374751/after_party_bitches.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Сексуальные Соседки", Сексуальные Соседки
 https://video1.tizam.cc/films/FriendsinSex.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Начинающий Адвокат", Начинающий Адвокат
-https://video2.tizam.cc/files/2374771/a_novice_lawyer.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Мадемуазель и ее жеребцы", Мадемуазель и ее жеребцы
 https://video1.tizam.cc/films/TheMademoisellesStallions.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Экстаз Фламенко", Экстаз Фламенко
@@ -573,30 +509,14 @@ https://video1.tizam.cc/films/Bitches.mp4
 https://video1.tizam.cc/films/DirtyMenAtWork.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Разрыв", Разрыв
 https://video1.tizam.cc/vk/Torn-Rus.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Первоклассные задницы 2", Первоклассные задницы 2
-https://video2.tizam.cc/files/2399082/weltklasse_arsche_2.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Раздевающиеся Медсёстры", Раздевающиеся Медсёстры
 https://video1.tizam.cc/vk/StripperNurses.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Лифчик, Трусики, Ножницы", Трусики, Ножницы" tvg-logo="https://i.ibb.co/qMdJ4yz/s.png" group-title="Кино_пакет", Лифчик, Трусики, Ножницы
+#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Лифчик, Трусики, Ножницы", Трусики, Ножницы", Трусики, Ножницы" tvg-logo="https://i.ibb.co/qMdJ4yz/s.png" group-title="Кино_пакет", Лифчик, Трусики, Ножницы
 https://video1.tizam.cc/old_films/BraPantiesScissors.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Клонирование", Клонирование
-https://video1.tizam.cc/vk/Clonazione.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Гребанный Санта", Гребанный Санта
-https://video2.tizam.cc/files/2354326/private_gold_101__dirty_santa___grebanyy_santa.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Порочное Рождество", Порочное Рождество
-https://video2.tizam.cc/files/2354339/porochnoe_rozhdestvo__s_russkim_perevodom.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Без Лимитов 2", Без Лимитов 2
 https://video1.tizam.cc/films/NoLimits2.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Божественное удовольствие", Божественное удовольствие
 https://video1.tizam.cc/films/GottinnenDerLust.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Укус вампира", Укус вампира
-https://video2.tizam.cc/files/2352443/bite____ukus_vampira__s_russkim_perevodom.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Поговори со мной грязно 8", Поговори со мной грязно 8
-https://video2.tizam.cc/files/2352451/talk_dirty_to_me_8__1991__rus.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Совокупление", Совокупление
-https://video2.tizam.cc/files/1709202/amplesso.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Одна в большом городе", Одна в большом городе
-https://video2.tizam.cc/files/2350656/odna_v_bolshom_gorode.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="История О Власть подчинения", История О Власть подчинения
 https://video1.tizam.cc/films/OThePowerofSubmissionRus.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Порно искусство", Порно искусство
@@ -605,86 +525,20 @@ https://video1.tizam.cc/films/PopHard.mp4
 https://video1.tizam.cc/films/GameOn.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Джесси: Личная Помощница", Джесси: Личная Помощница
 https://video1.tizam.cc/top/Jessie-Personal-Assistant.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Месть шлюхи", Месть шлюхи
-https://video1.tizam.cc/films/Lavengeancedunepute.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Сатана", Сатана
 https://video1.tizam.cc/films/Satan.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Бортпроводницы", Бортпроводницы
-https://video2.tizam.cc/files/2284441/styuardessy_hotesses_de_l_air.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Под знаком скорпиона", Под знаком скорпиона
-https://video2.tizam.cc/files/2143879/i_skorpionens_tegn.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="6 Шведок на Ибице", 6 Шведок на Ибице
-https://video2.tizam.cc/files/2156507/sechs_schwedinnen_auf_ibiza.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Шлюхи и бриллианты", Шлюхи и бриллианты
-https://video2.tizam.cc/files/2331810/shlyuhi_i_brillianty___lyubov_v_arendu.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Убийца Тел: Пробуждение", Убийца Тел: Пробуждение
-https://video2.tizam.cc/files/2331811/ubiytsa_tel__probuzhdenie.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Крестная мать", Крестная мать
-https://video2.tizam.cc/files/2323308/krestnaya_mat.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Порно олимпиада - Анальные Игры", Порно олимпиада - Анальные Игры
-https://video2.tizam.cc/files/2311893/porno_olimpiada___analnye_igry.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Сексуальные Секреты Йети", Сексуальные Секреты Йети
-https://video2.tizam.cc/files/2311895/seksualnye_sekrety_yeti.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Шестой элемент", Шестой элемент
-https://video2.tizam.cc/files/2311914/sex_th_element.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Войны Пейнтбола", Войны Пейнтбола
-https://video2.tizam.cc/files/2308597/private_sports_9___paintball_warriors.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Секс Юрского Периода", Секс Юрского Периода
-https://video2.tizam.cc/files/2301935/seks_yurskogo_perioda___homo_erectus_1996__s_russkim_perevodo.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Бока Чика Блюз", Бока Чика Блюз
-https://video2.tizam.cc/files/1802368/boca_chica_blues__2010___s_russkim_perevodom.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Межрасовые Встречи", Межрасовые Встречи
-https://video2.tizam.cc/files/2307471/interracial_encounters__perevod_russkiy.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Сокровища Похоти 5", Сокровища Похоти 5
-https://video2.tizam.cc/files/2307478/lust_treasures_5___sokrovishcha_pohoti_5_2002.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Сокровища похоти 2", Сокровища похоти 2
-https://video2.tizam.cc/files/2307484/sokrovishcha_pohoti_2___lust_treasures_2__2002.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Оближи Мой Огонь", Оближи Мой Огонь
-https://video2.tizam.cc/files/2306623/oblizhi_moy_ogon_2009.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Пассажир 69", Пассажир 69
-https://video2.tizam.cc/files/2306628/passazhir_69.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Месть Студентки", Месть Студентки
-https://video2.tizam.cc/files/2305471/college_girl_revenge.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Секс Колдунья", Секс Колдунья
-https://video2.tizam.cc/files/2301524/sex_witch__m_torrent.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Лесбиянки В Тропиках", Лесбиянки В Тропиках
-https://video2.tizam.cc/files/2299565/lesbiyanki_v_tropikah___lesbians_in_the_tropics__2008.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Опасный секс", Опасный секс
-https://video2.tizam.cc/files/2299434/dangerous_sex___opasnyy_seks__2006.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Русский институт 4", Русский институт 4
-https://video2.tizam.cc/files/2298183/russkiy_institut_4__russkiy_perevod.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Всего за одну ночь", Всего за одну ночь
-https://video2.tizam.cc/files/1950578/h_f__tutto_in_una_notte___vsego_za_odnu_noch.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Это не Охотники За Привидениями", Это не Охотники За Привидениями
-https://video2.tizam.cc/files/2215178/eto_ne_ohotniki_za_privideniyami_hhh___2011__rus.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Измена", Измена
-https://video2.tizam.cc/files/2290340/hitrost__s_russkim_perevodom.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Одержимые фетишом", Одержимые фетишом
-https://video2.tizam.cc/files/2287910/oderzhimye_fetishom.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Табу 4", Табу 4
-https://video2.tizam.cc/files/2155440/taboo_4.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Первая Оргия Лолы", Первая Оргия Лолы
-https://video2.tizam.cc/files/2287249/lola__obkatka_v_orgiyah.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Приговоренные", Приговоренные
-https://video2.tizam.cc/files/2278785/prigovorennye.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Порочный путь", Порочный путь
-https://video2.tizam.cc/files/2287292/porochnyy_put.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Тайны исповеди", Тайны исповеди
-https://video2.tizam.cc/files/1643730/confessional_s_secrets.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Священная кукла", Священная кукла
-https://video1.tizam.cc/old_films/Sacree_Poupee.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="40 лет: Замужняя но раскрепощенная", 40 лет: Замужняя но раскрепощенная
-https://video2.tizam.cc/files/2284674/zamuzhnyaya_no_raskreposhchennaya.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Тайные наваждения 2", Тайные наваждения 2
 https://video1.tizam.cc/old_films/Obsessions-cachees-2.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Волшебные рисунки", Волшебные рисунки
 https://video1.tizam.cc/old_films/MagicGraffiti.mp4
+#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Всего за одну ночь", Всего за одну ночь
+https://video2.tizam.cc/files/1950578/h_f__tutto_in_una_notte___vsego_za_odnu_noch.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Брент и Фьюри", Брент и Фьюри
 https://video1.tizam.cc/old_films/Burnt-Fury.mp4
+#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Священная кукла", Священная кукла
+https://video1.tizam.cc/old_films/Sacree_Poupee.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Последний Секс-Герой", Последний Секс-Герой
 https://video1.tizam.cc/old_films/PrivateTropicalSexSurvivors.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="День Секретарш 5", День Секретарш 5
-https://video2.tizam.cc/files/2406923/den_sekretarey_5__s_russkim_perevodom.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Королева слонов 2: Сахара", Королева слонов 2: Сахара
 https://video1.tizam.cc/vk/rabbit-sahara.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Королева слонов", Королева слонов
@@ -693,92 +547,22 @@ https://video1.tizam.cc/vk/QueenOfElephants1.mp4
 https://video1.tizam.cc/vk/balerina.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Греховная", Греховная
 https://video1.tizam.cc/old_films/LivinginSin.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Черные кружева и Белая Ложь", Черные кружева и Белая Ложь
-https://video2.tizam.cc/files/1197924/tv_hhh_perevod_na_russkiy...mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Розовая тюрьма", Розовая тюрьма
-https://video2.tizam.cc/files/2224405/rozovaya_tyurma___pink_prison__rus.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Дочери кузнеца", Дочери кузнеца
-https://video2.tizam.cc/files/2156565/docheri_kuznetsa.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Кокосовый Рай", Кокосовый Рай
-https://video2.tizam.cc/files/1398746/kokosovyy_ray.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Мода в Раю", Мода в Раю
-https://video2.tizam.cc/files/1410583/porno_s_perevodom.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Массажистка Дженна Джеймсон", Массажистка Дженна Джеймсон
-https://video2.tizam.cc/files/1540033/massazhistka.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Без ограничений", Без ограничений
-https://video2.tizam.cc/files/1523869/no_limit___bez_ogranicheniy.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Анальный психоанализ", Анальный психоанализ
 https://video1.tizam.cc/vk/anal_psycho_analysis.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Соседи по Комнате", Соседи по Комнате
-https://video2.tizam.cc/files/1410656/sosedi_po_komnate__2009.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Безумие", Безумие
 https://video1.tizam.cc/films/PrivateClassics2Madness.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="5 Оттенков от Private", 5 Оттенков от Private
-https://video2.tizam.cc/files/2206650/5_ottenkov_privat___5_shades_of_private.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Искусство романтических отношений 2", Искусство романтических отношений 2
-https://video2.tizam.cc/files/2221088/art_of_romance_2___romanticheskoe_iskusstvo_2__1.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Шелковые Чулки: Чёрная Вдова", Шелковые Чулки: Чёрная Вдова
-https://video2.tizam.cc/files/2221090/shelkovye_chulki__chernaya_vdova__1.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Академия Фетиша", Академия Фетиша
-https://video2.tizam.cc/files/2221101/private_pirate_fetish_machine_fetish_academy.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Девочки Фюрера", Девочки Фюрера
-https://video2.tizam.cc/files/2219646/devushki__18_let__fyurera.film_1_1995.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Катины сновидения", Катины сновидения
-https://video2.tizam.cc/files/1285291/katiny_sny.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Дешевая выпивка и Сигареты", Дешевая выпивка и Сигареты
 https://video1.tizam.cc/vk/CheapBoozeandCigarettes.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Непорочные Фантазии", Непорочные Фантазии
-https://video2.tizam.cc/files/1506721/razvratnye_fantazii_verdzhiny.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="3 дня в июне", 3 дня в июне
-https://video2.tizam.cc/files/2193665/3_dnya_v_iyune.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Андромеда 121", Андромеда 121
-https://video2.tizam.cc/files/2192959/andromeda_121.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Тёмная сторона 3", Тёмная сторона 3
-https://video2.tizam.cc/files/2405047/seks_fantastika.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Похищенная и изнасилованная", Похищенная и изнасилованная
-https://video2.tizam.cc/files/1940964/la_ragazza_copertina__s_perevodom.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Вакханалия", Вакханалия
-https://video2.tizam.cc/files/1380657/bacchanal_chast_1_s_russkim_perevodom.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Замок анальных утёх", Замок анальных утёх
 https://video1.tizam.cc/vk/zamok.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Секс охота за сокровищами", Секс охота за сокровищами
-https://video2.tizam.cc/files/2162250/la_sexy_caccia_al_tesoro.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Весь этот секс", Весь этот секс
 https://video1.tizam.cc/vk/AllSex.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Снежные Шлюхи", Снежные Шлюхи
-https://video2.tizam.cc/files/1247557/pornofilm_snezhnye_korolevy__rus.perevod.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Вилла любви", Вилла любви
-https://video2.tizam.cc/files/1095272/villa_s_perevodom.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Шаловливая Няня", Шаловливая Няня
 https://video1.tizam.cc/old_films/AuPair.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Робинзон Крузо на острове греха", Робинзон Крузо на острове греха
-https://video2.tizam.cc/files/1623843/priklyucheniya_robinzona_kruzo_na_ostrove_greha.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Женская Тюрьма", Женская Тюрьма
-https://video2.tizam.cc/files/2301955/unizheniya_v_zhenskoy_tyurme___penitenziario_femminile_1995.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Сексуальный убийца", Сексуальный убийца
 https://video1.tizam.cc/old_films/RossoENero.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Секс Курорт на Мадагаскар", Секс Курорт на Мадагаскар
 https://video1.tizam.cc/old_films/MadagascarSexReso.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Дикое Сердце", Дикое Сердце
-https://video2.tizam.cc/files/2105722/untamed_heart.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Киберсекс - 2001", Киберсекс - 2001
-https://video2.tizam.cc/files/1570700/cyber_sex.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Девушка на одну Ночь", Девушка на одну Ночь
-https://video2.tizam.cc/files/2101574/devushka_na_odnu_noch.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Белые Девочки с черными парнями", Белые Девочки с черными парнями
-https://video2.tizam.cc/files/1601021/belye_devushki__18_let__s_chyornymi_parnyami.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Кастинг Пьера Вудмана 6", Кастинг Пьера Вудмана 6
-https://video2.tizam.cc/files/1604846/kasting_pera_vudmana__6.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Девушки из высшего Общества", Девушки из высшего Общества
-https://video2.tizam.cc/files/1605326/devushki_iz_vysshego_obshchestva.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Элли становится Дикой", Элли становится Дикой
-https://video2.tizam.cc/files/1669459/ally_goes_on_the_wild_side.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Горячие медсестры, они о вас позаботятся", они о вас позаботятся" tvg-logo="https://i.ibb.co/qMdJ4yz/s.png" group-title="Кино_пакет", Горячие медсестры, они о вас позаботятся
-https://video2.tizam.cc/files/1702141/goryachenkie_medsyostry.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Невеста в черном", Невеста в черном
-https://video2.tizam.cc/files/2250832/the_bride_wore_black___nevesta_v_chernom__2004.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Восьмой день: 1-2 часть", Восьмой день: 1-2 часть
-https://video2.tizam.cc/files/1400673/the_8th_day__8_y_den_2009__chast_1..mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Директор 3", Директор 3
 https://video1.tizam.cc/old_films/Headmaster3.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Танцовщицы Go Go", Танцовщицы Go Go
@@ -789,36 +573,14 @@ https://video1.tizam.cc/old_films/PrivateGold96MILK.mp4
 https://video1.tizam.cc/old_films/104ThePrivateLifeofLeadeMae.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Оттянись 2", Оттянись 2
 https://video1.tizam.cc/vk/Enjoy-2.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Уроки музыки", Уроки музыки
-https://video2.tizam.cc/files/1811143/uroki_muzyki___music_s_lessons__1995.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Всем Даю !", Всем Даю !
-https://video2.tizam.cc/files/2101582/priznanie_kristi___vsem_dayu.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Гипнотизер", Гипнотизер
-https://video2.tizam.cc/files/2215497/gipnotizyor___the_pinch__2009.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Отчаянная", Отчаянная
-https://video2.tizam.cc/files/1219957/desperate.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Соперница", Соперница
-https://video2.tizam.cc/files/2292618/sopernitsa.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Амадей Моцарт", Амадей Моцарт
-https://video2.tizam.cc/files/1615618/amadey_motsart__s_russkim_perevodom___1995.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Кафе Дьявол", Кафе Дьявол
-https://video2.tizam.cc/files/1644770/kafe_dyavol.mp4#EXTINF:0 group-title="Кино_пакет" tvg-logo="https://i.ibb.co/qMdJ4yz/s.png",Загрузка
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Вдова Анисса Кейт", Вдова Анисса Кейт
-https://video2.tizam.cc/files/2284150/anissa_kate__the_widow.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Юные Толстушки", Юные Толстушки
-https://video2.tizam.cc/files/1823152/fat_teennagers.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Привлекательная Женщина", Привлекательная Женщина
 https://video1.tizam.cc/films/PrettyWomanAXXXParody.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Секс по Техасски", Секс по Техасски
-https://video2.tizam.cc/files/2101630/seks_po_tehasski.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Экстра груди лесбиянок 8", Экстра груди лесбиянок 8
 https://video1.tizam.cc/old_films/BusenextralesbenNr8.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Дженна Татуировщица", Дженна Татуировщица
 https://video1.tizam.cc/old_films/JennaInk.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Лихорадка", Лихорадка
 https://video1.tizam.cc/old_films/PrivateMovies2Fever.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Властелина Колец", Властелина Колец
-https://video2.tizam.cc/files/1188492/lady_of_the_rings_porno_parodiya_hd.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Подростковые игры", Подростковые игры
 https://video1.tizam.cc/old_films/Teenage-playgames-2003.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Рай", Рай
@@ -827,48 +589,24 @@ https://video1.tizam.cc/old_films/Eden1.mp4
 https://video1.tizam.cc/old_films/AlmostPerfect.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Бал Ганстеров: Женщины Капоне", Бал Ганстеров: Женщины Капоне
 https://video1.tizam.cc/old_films/MobstersBall.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Робин Гуд Сексуальная легенда", Робин Гуд Сексуальная легенда
-https://video2.tizam.cc/files/1641133/robin_gud__seksualnaya_legenda_parodiya_1996.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Остров Динозавров", Остров Динозавров
 https://video1.tizam.cc/old_films/DinosaurIsland1994.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Порно Бойня", Порно Бойня
-https://video2.tizam.cc/files/1655057/porno_holocaust.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Дракула: Девочки проголодались", Дракула: Девочки проголодались
 https://video1.tizam.cc/old_films/FetishMachine26Draculya.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Наконечник стрелы", Наконечник стрелы
-https://video2.tizam.cc/files/2101919/nakonechnik_strely.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Настоящие Голливудские Близняшки", Настоящие Голливудские Близняшки
-https://video2.tizam.cc/files/2101926/nastoyashchie_gollivudskie_bliznyashki.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Лукреция", Лукреция
-https://video2.tizam.cc/files/2053010/lucretia___rache_einer_herzogin.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Грязные танцы XXX пародия", Грязные танцы XXX пародия
-https://video2.tizam.cc/files/1918948/gryaznye_tantsy.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Фея Соблазнительница", Фея Соблазнительница
-https://video2.tizam.cc/files/2101927/feya_soblaznitelnitsa.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Нянечка 8", Нянечка 8
-https://video2.tizam.cc/files/1906742/the_babysitter_8.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Бунтарки", Бунтарки
 https://video1.tizam.cc/films/RiotGirls.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Лучший Друг Навсегда", Лучший Друг Навсегда
 https://video1.tizam.cc/old_films/BFFS.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Звездатые Войны, Эпизод 2", Эпизод 2" tvg-logo="https://i.ibb.co/qMdJ4yz/s.png" group-title="Кино_пакет", Звездатые Войны, Эпизод 2
+#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Звездатые Войны, Эпизод 2",Звездатые Войны, Эпизод 2
 https://video1.tizam.cc/old_films/PornWarsEpisode2.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Черный червь", Черный червь
 https://video1.tizam.cc/films/BlackWorm.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Секс во сне и наяву", Секс во сне и наяву
-https://video2.tizam.cc/files/2214497/seks_vo_sne_i_nayavu___gedankenspiele__rn.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Звезда фильма секс при черной полосе", Звезда фильма секс при черной полосе
 https://video1.tizam.cc/films/MovieStar-chkm8te.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="К.K.K. История насилия в Америке", К.K.K. История насилия в Америке
 https://video1.tizam.cc/old_films/TheStoryofViolenceinAmerica.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Юные Дебютантки для Рокко", Юные Дебютантки для Рокко
-https://video2.tizam.cc/files/2395650/molodaya_shlyuha_rokki.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="В поисках мечты", В поисках мечты
 https://video1.tizam.cc/old_films/DreamQuest.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Преследующий", Преследующий
-https://video2.tizam.cc/files/1456459/stalker.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Кодовое Имя Мата Хари 2", Кодовое Имя Мата Хари 2
-https://video2.tizam.cc/files/1619570/kodovoe_imya_mata_hari_2.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Вся эта Бригада", Вся эта Бригада
 https://video1.tizam.cc/old_films/Uelleaime1995.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Лучшее от Дрю Берримор", Лучшее от Дрю Берримор
@@ -877,12 +615,6 @@ https://video1.tizam.cc/old_films/BestofDruBerrymore.mp4
 https://video1.tizam.cc/old_films/La-Scelta.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Спусти Трусики пропусти стаканчик", Спусти Трусики пропусти стаканчик
 https://video2.tizam.cc/files/1590863/spusti_trusiki.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Распутин: Оргии при царском дворе", Распутин: Оргии при царском дворе
-https://video2.tizam.cc/files/2156508/rasputin___orgien_am_zarenhof.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Падший", Падший
-https://video2.tizam.cc/files/2301950/padshiy__fallen_2008__s_russkim_perevodom.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Порношик 18: Алетта", Порношик 18: Алетта
-https://video2.tizam.cc/files/1529504/pornoshik_18___aletta.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Экстремальный разврат", Экстремальный разврат
 https://video1.tizam.cc/old_films/MaximumPerversum40Extrem%20Pervers.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Наказание", Наказание
@@ -893,44 +625,26 @@ https://video1.tizam.cc/films/Sweetheart.mp4
 https://video1.tizam.cc/old_films/PrivateGold70SexRebels.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="В Живую 2", В Живую 2
 https://video1.tizam.cc/old_films/Reality-2.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Каждому мужчине по...", Каждому мужчине по...
-https://video2.tizam.cc/files/2102006/fetish_kazhdogo_muzhchiny_1.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Молодо-Зелено", Молодо-Зелено
 https://video1.tizam.cc/old_films/TeenFuckHoles2005.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Рождественские случаи", Рождественские случаи
 https://video1.tizam.cc/old_films/XMasEvent.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Девушки за 50", Девушки за 50
-https://video2.tizam.cc/files/2284683/malyshki_za_50.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Доктор Макс и очень грудастые малышки", Доктор Макс и очень грудастые малышки
-https://video2.tizam.cc/files/2121448/doktor_maks_i_ochen_grudastye_devushki__18_let.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Открытие Мисти Бетховен", Открытие Мисти Бетховен
-https://video2.tizam.cc/files/2156511/the_opening_of_misty_beethoven.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Секс на ферме", Секс на ферме
 https://video1.tizam.cc/films/PrivateMatador13.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Анна Полина Горничная ученица", Анна Полина Горничная ученица
-https://video2.tizam.cc/files/2395590/anna_apprentie_soubrette.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Остров Сокровищ", Остров Сокровищ
 https://video1.tizam.cc/old_films/SelentheGirlofTreasureIsland.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Горячие Ленты", Горячие Ленты
 https://video1.tizam.cc/old_films/SexTapes.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Интрига и Удовольствие", Интрига и Удовольствие
-https://video2.tizam.cc/files/1954635/intrigue__and__pleasure.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Горячие поцелуи", Горячие поцелуи
-https://video2.tizam.cc/files/2102044/goryachie_potselui.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Кастинг Пьера Вудмана 27", Кастинг Пьера Вудмана 27
 https://video1.tizam.cc/old_films/CastingsbaPierrWoodman27.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Ненасытные Сучки С Маленькими Сиськами", Ненасытные Сучки С Маленькими Сиськами
 https://video1.tizam.cc/old_films/BestByPrivate121SmallTittedSuperSluts.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Мир зрелых красоток", Мир зрелых красоток
 https://video1.tizam.cc/old_films/Cougarland.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Смуглая Леди", Смуглая Леди
-https://video2.tizam.cc/files/1507797/the_dark_lady__shpionka.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Тери Вайгель на обложке журнала", Тери Вайгель на обложке журнала
 https://video1.tizam.cc/old_films/Centerfold.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Джессика Императрица похоти", Джессика Императрица похоти
 https://video1.tizam.cc/vk/Jessica-imperatrice-du-plaisir.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Рокко Сумасшедший Жеребец", Рокко Сумасшедший Жеребец
-https://video2.tizam.cc/files/1962413/rocco_cavallo_pazzo_with_cd1.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Рокко Большой и Сильный Жеребец", Рокко Большой и Сильный Жеребец
 https://video1.tizam.cc/old_films/RoccoBigandStrongStallion.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Грязные Фантазии Рокко 6", Грязные Фантазии Рокко 6
@@ -939,20 +653,12 @@ https://video1.tizam.cc/old_films/RoccosDirtyDreams6.mp4
 https://video1.tizam.cc/vk/Roccos-Way-To-Love.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Шаг за шагом", Шаг за шагом
 https://video1.tizam.cc/old_films/shag_za_shagom.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Нерон: Извращения Императора", Нерон: Извращения Императора
-https://video2.tizam.cc/files/2102078/neron___izvrashcheniya_imperatora__1997.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Провокация", Провокация
-https://video2.tizam.cc/files/2215886/pervyy_raz__provokatsiya____la_prima_volta__provocazioni.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Жизнь Райли", Жизнь Райли
 https://video1.tizam.cc/old_films/LifeOfRiley.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Живой секс", Живой секс
 https://video1.tizam.cc/old_films/RealityDerReizerwischtzuwerden.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Сучки с престижными концами", Сучки с престижными концами
 https://video1.tizam.cc/old_films/StraponSally10.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Первоклассные задницы", Первоклассные задницы
-https://video2.tizam.cc/files/2102101/pervoklassnye_zadnitsy_weltklasse_arsche.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Жопы мирового класса 2", Жопы мирового класса 2
-https://video2.tizam.cc/files/2102100/zhopy_mirovogo_klassa_2_weltklasse_arsche_2.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Роскошные 2", Роскошные 2
 https://video1.tizam.cc/old_films/Luxurious2.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Анальная свобода", Анальная свобода
@@ -961,10 +667,6 @@ https://video1.tizam.cc/old_films/180AnalFreedom.mp4
 https://video1.tizam.cc/old_films/Luxurious4.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Роскошные 5", Роскошные 5
 https://video1.tizam.cc/old_films/Luxurious5.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Кристина Роуз грязная девочка", Кристина Роуз грязная девочка
-https://video2.tizam.cc/files/2185104/kristina_rouz_gryaznaya_devushka__18_let___1__s_perevodom.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Кристина Роуз Шлюшка", Кристина Роуз Шлюшка
-https://video2.tizam.cc/files/2212826/kristina_rouz_shlyushka__1.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Гламурные сучки 2", Гламурные сучки 2
 https://video1.tizam.cc/vk/GlamourGirls2.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Затычка для девочек", Затычка для девочек
@@ -977,8 +679,6 @@ https://video1.tizam.cc/old_films/Big-Butts-Like-it-Big.mp4
 https://video1.tizam.cc/old_films/AlteredAssholes3.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Лучшие горячие сцены от 21 Sextury 5", Лучшие горячие сцены от 21 Sextury 5
 https://video1.tizam.cc/old_films/Bestof2SexturyVol5Rus.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Грязные девченки 3", Грязные девченки 3
-https://video2.tizam.cc/files/1689550/dirty_girlz_3.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Двойной динамит 3", Двойной динамит 3
 https://video1.tizam.cc/old_films/DoubleDynamite3.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Евро шлюшки 9", Евро шлюшки 9
@@ -987,50 +687,24 @@ https://video1.tizam.cc/old_films/EuroAngels9.mp4
 https://video1.tizam.cc/old_films/FuckTheBeauty1.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Любовники", Любовники
 https://video1.tizam.cc/old_films/4-Some.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Отчет о девственницах", Отчет о девственницах
-https://video2.tizam.cc/files/2102158/otchet_o_devstvennitsah.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Точка Вспышки", Точка Вспышки
 https://video1.tizam.cc/vk/Flashpoint.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Тореадор", Тореадор
-https://video2.tizam.cc/files/2156527/torero.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Большие попки любят большие члены 2", Большие попки любят большие члены 2
 https://video1.tizam.cc/old_films/Big-Butts-like-it-Big-2.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Пирамида 3", Пирамида 3
-https://video2.tizam.cc/files/1406950/piramida_3__1996.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Сексуальные Капризы", Сексуальные Капризы
 https://video1.tizam.cc/old_films/SexFreaks-Rip.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Любовь и Боль", Любовь и Боль
-https://video2.tizam.cc/files/1672654/lyubov_i_bol.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Дьявол и Мисс Джонс", Дьявол и Мисс Джонс
 https://video1.tizam.cc/old_films/The-New-Devil-In-Miss-Jones-2005-R-DVDRip.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Она была моей матерью", Она была моей матерью
-https://video2.tizam.cc/files/1411155/ona_byla_moey_materyu._2003.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Лорины Университеты", Лорины Университеты
-https://video2.tizam.cc/files/2395488/lora_kak_angel.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Кремовое преступление", Кремовое преступление
-https://video2.tizam.cc/files/1113391/cream_crime__rus.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Никогда больше не будет одиноких ночей", Никогда больше не будет одиноких ночей
-https://video2.tizam.cc/files/2102534/nikogda_bolshe_ne_budet_odinokih_nochey.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Закрытый Клуб красивых и богатых", Закрытый Клуб красивых и богатых
-https://video2.tizam.cc/files/2102535/zakrytyy_klub_krasivyh_i_bogatyh.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Второе причастие", Второе причастие
-https://video2.tizam.cc/files/1666801/vtoroe_prichastie.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Никогда не говори нет", Никогда не говори нет
 https://video1.tizam.cc/old_films/PrivateReality15NeverSayNo.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Страсти на Острове", Страсти на Острове
 https://video1.tizam.cc/old_films/PrivateMovies8IslandFever.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Криминальные секс расследования: Фильм 2", Криминальные секс расследования: Фильм 2
-https://video2.tizam.cc/files/1648564/parodiya_kriminalnye_seks_rassledovaniya_2.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Личная жизнь Лизы Хоней", Личная жизнь Лизы Хоней
 https://video1.tizam.cc/old_films/ThePrivateLifeoflizHoneyrus.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Свежие Наслаждения", Свежие Наслаждения
-https://video2.tizam.cc/files/2102591/svezhie_naslazhdeniya.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Супер Сенди", Супер Сенди
 https://video1.tizam.cc/old_films/ZIETheBestofSandy.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Шалуньи из средней школы", Шалуньи из средней школы
 https://video1.tizam.cc/films/DasMadcheninternat.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Центр секса", Центр секса
-https://video2.tizam.cc/files/1227955/tsentr_seksa...mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Снайперские выстрелы:Тони 2", Снайперские выстрелы:Тони 2
 https://video1.tizam.cc/old_films/CumOozingHoles2.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Частный Сыщик", Частный Сыщик
@@ -1041,80 +715,28 @@ https://video1.tizam.cc/old_films/PrivateTropical14SunsetMemories.mp4
 https://video1.tizam.cc/old_films/TheArmsOfEvilRUS.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Школьный Экстрим", Школьный Экстрим
 https://video1.tizam.cc/old_films/SexteenyXtremeRus.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Тюрьма", Тюрьма
-https://video2.tizam.cc/files/2102548/tyurma.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Долгая ночь", Долгая ночь
 https://video1.tizam.cc/old_films/WholeNight.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Остров удовольствий", Остров удовольствий
-https://video2.tizam.cc/files/1614450/ostrov_udovolstviy.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Записки Медсестры", Записки Медсестры
 https://video1.tizam.cc/old_films/zapiskimedsestri.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Монах", Монах
 https://video1.tizam.cc/old_films/Il-Monaco.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Интернатские девочки", Интернатские девочки
-https://video2.tizam.cc/files/1588498/internatskie_devchonki.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Секретные материалы 9", Секретные материалы 9
-https://video2.tizam.cc/files/1599921/sekretnye_materialy_9.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Подарки к Совершеннолетию", Подарки к Совершеннолетию
-https://video2.tizam.cc/files/1607835/podarki_k_sovershennoletiyu.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="5 ключей к наслаждению", 5 ключей к наслаждению
-https://video2.tizam.cc/files/1570634/5_klyuchey_k_naslazhdeniyu_1_cd.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Свадебное путешествие", Свадебное путешествие
 https://video1.tizam.cc/old_films/Coral-Honeymoon.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Девушки Байкеров", Девушки Байкеров
 https://video1.tizam.cc/old_films/RidersThrobbingChoppers.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Неутомимая Чертовка", Неутомимая Чертовка
-https://video2.tizam.cc/files/2059792/timeless__1997___1.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Матадор 5: Сексуальное приключение", Матадор 5: Сексуальное приключение
-https://video2.tizam.cc/files/1499171/private_matador_5__the_sex_trip.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Сплетник", Сплетник
 https://video1.tizam.cc/vk/tattle_tale.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Лучшие оргии от Приват", Лучшие оргии от Приват
-https://video2.tizam.cc/files/1650560/luchshie_orgii_ot_privat.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Сделай Это", Сделай Это
-https://video2.tizam.cc/files/1650010/sdelay_eto.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Сердечная Боль", Сердечная Боль
-https://video2.tizam.cc/files/2102593/serdechnaya_bol.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Принцесса и потаскуха 2", Принцесса и потаскуха 2
-https://video2.tizam.cc/files/1656305/printsessa_i_potaskuha_2.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Ревность", Ревность
-https://video2.tizam.cc/files/1408706/revnost__jalousie__1994.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Секс скандал", Секс скандал
-https://video2.tizam.cc/files/1399061/seks_kapkan___sex_gate__s_perevodom.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Сестра секс Милосердия", Сестра секс Милосердия
-https://video2.tizam.cc/files/1643690/sestra_seks_miloserdiya.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Старшеклассницы: Урок музыки", Старшеклассницы: Урок музыки
-https://video2.tizam.cc/files/1604811/starsheklassnitsy._urok_muzyki.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Невеста", Невеста
-https://video2.tizam.cc/files/1940967/la_sposa__s_perevodom.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Дон Сальваторе", Дон Сальваторе
-https://video2.tizam.cc/files/1587676/don_salvatore_1995.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Визит в попу", Визит в попу
-https://video2.tizam.cc/files/2102604/vizit_v_popu.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Золотые девушки", Золотые девушки
 https://video1.tizam.cc/files/817255/ptitsa_udovolstviya.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Сексуальная ловушка", Сексуальная ловушка
-https://video2.tizam.cc/files/1405105/seksualnaya_lovushka__sex_trap__2008.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Психология секса", Психология секса
 https://video1.tizam.cc/old_films/PsychoSex4RUS.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Текила Бум-Бум", Текила Бум-Бум
-https://video2.tizam.cc/files/1906782/122._tequila_bum_bum__tekila_bum_bum.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Расположение", Расположение
-https://video2.tizam.cc/files/1408676/raspolozhenie_layout__2007.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Афера", Афера
 https://video1.tizam.cc/old_films/Measure-for-Measure.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Опасные штучки", Опасные штучки
-https://video2.tizam.cc/files/1247624/xxx_dangerous_things.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Повелительница слонов", Повелительница слонов
-https://video2.tizam.cc/files/2102617/povelitelnitsa_slonov.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Совокупление (2002)", Совокупление (2002)
-https://video2.tizam.cc/files/1709202/amplesso.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="История Кристель", История Кристель
 https://video1.tizam.cc/old_films/StoryOfChrystal.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Грудастые копы", Грудастые копы
 https://video1.tizam.cc/vk/BustyCops.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Сексуальные приключения красной шапочки", Сексуальные приключения красной шапочки
-https://video2.tizam.cc/files/1694302/seksualnye_priklyucheniya_krasnoy_shapochki__russkiy_perevod.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Беспредельщицы 2", Беспредельщицы 2
 https://video1.tizam.cc/old_films/WITHOUT_LIMIT_02.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Клуб рай", Клуб рай
@@ -1123,56 +745,20 @@ https://video1.tizam.cc/old_films/Club-Paradise2009.mp4
 https://video1.tizam.cc/vk/DoctorSex.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Порванная леди из высшего класса", Порванная леди из высшего класса
 https://video1.tizam.cc/vk/Torn.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Сахара", Сахара
-https://video2.tizam.cc/files/1173135/sahara.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Цена наслаждения", Цена наслаждения
-https://video2.tizam.cc/files/2102616/tsena_naslazhdeniya.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Военная страсть", Военная страсть
-https://video2.tizam.cc/files/2102618/voennaya_strast.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Рудольф Валентино неотразимый соблазнитель", Рудольф Валентино неотразимый соблазнитель
-https://video2.tizam.cc/files/2061518/rudolf_valentino__neotrazimyy_soblaznitel___rudy_the_valen.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Секс триллер", Секс триллер
-https://video2.tizam.cc/files/1227959/seks_triller...mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Адский дуэт", Адский дуэт
 https://video1.tizam.cc/old_films/Duonfernal.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Ритуал", Ритуал
 https://video1.tizam.cc/old_films/Ritual.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Империя чувств", Империя чувств
 https://video1.tizam.cc/old_films/Pure_iperiya_uvstv.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Возвращение Домой", Возвращение Домой
-https://video2.tizam.cc/files/2212308/rawhide___vozvrashchenie_domoy__2003.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Где то на диком западе", Где то на диком западе
-https://video2.tizam.cc/files/1620727/gde_to_na_dikom_zapade.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Будущая мама", Будущая мама
-https://video2.tizam.cc/files/2102633/budushchaya_mama.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Аннина: Беседы о сексе", Аннина: Беседы о сексе
-https://video2.tizam.cc/files/2102634/annina__besedy_o_sekse.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Девочки для Муссолини", Девочки для Муссолини
-https://video2.tizam.cc/files/1410649/devushki__18_let__dlya_mussolini_1997.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Женщина в красном", Женщина в красном
-https://video2.tizam.cc/files/2102867/zhenshchina_v_krasnom.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Ненасытная Крестьянка", Ненасытная Крестьянка
-https://video2.tizam.cc/files/1580474/nenasytnaya_krestyanka_iz_germaniy.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Сексуальная Терапия", Сексуальная Терапия
-https://video2.tizam.cc/files/1641605/sex_therapy.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Экзотические Иллюзии", Экзотические Иллюзии
-https://video1.tizam.cc/old_films/ExoticIllusions.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Экзотические Эллюзии 2", Экзотические Эллюзии 2
 https://video1.tizam.cc/old_films/ExoticIllusions2.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Измена Голливудских Жен", Измена Голливудских Жен
 https://video1.tizam.cc/old_films/Private_Gold_107_Cheating_Holliwood_Wives.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Мечты Девственниц 2", Мечты Девственниц 2
-https://video2.tizam.cc/files/2102644/mechty_devstvennits_2.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Обрызганные", Обрызганные
-https://video2.tizam.cc/files/2156562/bryzgayushchie_kolty___spritzende_colts.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Свеженькие Музы", Свеженькие Музы
 https://video1.tizam.cc/old_films/TheLastMuse2001.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Наркотически и Сексуально Зависимые", Наркотически и Сексуально Зависимые
 https://video1.tizam.cc/films/PoppyandTheSexAddicts.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Аллая Страсть", Аллая Страсть
-https://video2.tizam.cc/files/1665103/red_passion.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Секс Терапия", Секс Терапия
-https://video2.tizam.cc/files/2211861/seks_terapiya_sex_therapy__rn.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Сексуальное Путешествие", Сексуальное Путешествие
 https://video1.tizam.cc/old_films/Sex-Voyage-RUS.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Роковая Орхидея", Роковая Орхидея
@@ -1189,130 +775,26 @@ https://video1.tizam.cc/old_films/The-Fugitive-2.mp4
 https://video1.tizam.cc/old_films/Life-1.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Анастасия", Анастасия
 https://video1.tizam.cc/old_films/AnaxtasiaRUS.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Три поросёнка", Три поросёнка
-https://video2.tizam.cc/files/1241836/tri_porosyonka.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Башня", Башня
-https://video2.tizam.cc/files/2121440/bashnya.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Деньги Ненужны Секс Бесплатный", Деньги Ненужны Секс Бесплатный
-https://video2.tizam.cc/files/2105633/private_money_for_nothing_sex_for_free.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Фанни", Фанни
 https://video1.tizam.cc/old_films/Fanny-1997.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Преграда Для Любви", Преграда Для Любви
 https://video1.tizam.cc/new_films/pregrada_dlya_lyubvi.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Летний Ветер", Летний Ветер
-https://video2.tizam.cc/films/letnij_veter1997.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Преследование", Преследование
-https://video2.tizam.cc/films/presledovanie1996.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Неотразимая Сильвия", Неотразимая Сильвия
-https://video2.tizam.cc/films/neotrozimaya_sil_viya1997.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Выходные в Болонье", Выходные в Болонье
-https://video2.tizam.cc/files/1646390/gaya_3___vyhodnye_v_bolone.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Пришельцы", Пришельцы
-https://video2.tizam.cc/files/1609527/prisheltsy.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Звёздный контракт", Звёздный контракт
-https://video2.tizam.cc/files/1021437/contract_star.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Отцовские радости", Отцовские радости
-https://video2.tizam.cc/files/1985146/vom_vater_beim_ficken_beobachtet__s_perevodom.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Утонченность", Утонченность
 https://video1.tizam.cc/vk/Elegance720.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Наполеон ХХХ", Наполеон ХХХ
-https://video2.tizam.cc/files/1635526/napoleon___s_perevodom.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Автомойка С Большими Сиськами", Автомойка С Большими Сиськами
 https://video1.tizam.cc/vk/BigBoobCarWash.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Леди в железной маске", Леди в железной маске
-https://video2.tizam.cc/files/1940963/la_maschera_di_ferro__s_perevodom.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Заводной банан", Заводной банан
-https://video2.tizam.cc/files/1939648/zavadnoy_banan_s_perevodom.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Эротические Приключения Трех Мушкетеров 1", Эротические Приключения Трех Мушкетеров 1
-https://video2.tizam.cc/files/1206378/eroticheskie_priklyucheniya_treh_mushketerov___the_erotic_adventures_of_the_three_musketeers__1992.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Частная жизнь Памелы Манн", Частная жизнь Памелы Манн
-https://video2.tizam.cc/files/2102969/chastnaya_zhizn_pamely_mann.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Сексуальный киллер Никита", Сексуальный киллер Никита
-https://video2.tizam.cc/files/2102978/nikita_1__seriya.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Клеопатра", Клеопатра
 https://video1.tizam.cc/top/Cleopatra.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Принцессы мафии", Принцессы мафии
-https://video2.tizam.cc/files/1648990/printsessy_mafii.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Водительская дочка", Водительская дочка
-https://video2.tizam.cc/files/1097179/voditelskaya_dochka_1chast.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Приватный кастинг Вудмана", Приватный кастинг Вудмана
-https://video2.tizam.cc/files/1694931/woodman_casting_x_63.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Волшебная зажигалка", Волшебная зажигалка
-https://video2.tizam.cc/files/2102984/volshebnaya_zazhigalka.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Фрау доктор", Фрау доктор
-https://video2.tizam.cc/files/1622235/frau_doktor___vrach_strasti.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Неверный", Неверный
-https://video2.tizam.cc/files/1616779/nevernyy.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Утренний случай", Утренний случай
 https://video1.tizam.cc/films/PerCasoUnaMattina.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Аромат Матильды", Аромат Матильды
 https://video1.tizam.cc/old_films/aromat_matil_dy.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Как профессионально делать кунилингус", Как профессионально делать кунилингус
-https://video2.tizam.cc/files/1940650/kak_professionalno_delat_kunilingus__russkiy_perevod.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Гойя и Обнаженная Маха", Гойя и Обнаженная Маха
-https://video2.tizam.cc/files/1603806/goya_and_the_naked_maja_1cd.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="По ту сторону Парижа", По ту сторону Парижа
-https://video2.tizam.cc/files/1517271/zakoulki_parizha.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Секс за деньги", Секс за деньги
-https://video2.tizam.cc/files/2056562/sex_for_cash.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Зазель: Аромат любви", Зазель: Аромат любви
-https://video2.tizam.cc/files/2228366/zazel___the_scent_of_love.___zazel__aromat_lyubvi..mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Две сестры", Две сестры
-https://video2.tizam.cc/files/2396028/sluts_sister.mp4
 #EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Селен Распустившийся Цветок", Селен Распустившийся Цветок
 https://video1.tizam.cc/films/SelenPuledrainCalore.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Мадам Желание", Мадам Желание
-https://video2.tizam.cc/files/2376744/madam_zhelanie__s_russkim_perevodom____madame_de_bonplaisir.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Истинное Желание", Истинное Желание
-https://video2.tizam.cc/files/1397543/nevernyy___istinnoe_zhelanie__infedele__rus.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Фауст", Фауст
-https://video1.tizam.cc/films/Faust.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Распутница", Распутница
-https://video2.tizam.cc/files/2215569/rasputnitsa___la_libertine.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Венецианский Маскарад", Венецианский Маскарад
-https://video2.tizam.cc/files/2103041/venice_masquerade.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Нокаут", Нокаут
-https://video1.tizam.cc/films/RockHard.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Спасательницы", Спасательницы
-https://video2.tizam.cc/files/1398743/seksualnye_spasatelnitsy__5.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Берег капитана Батса", Берег капитана Батса
-https://video2.tizam.cc/files/2103096/bereg_kapitana_batsa__1.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Казино Роял Сексуальное чтиво", Казино Роял Сексуальное чтиво
-https://video2.tizam.cc/files/1406827/kazino_royal._seksualnoe_chtivo_._perevod.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Сердце из камня", Сердце из камня
-https://video2.tizam.cc/files/2103053/serdtse_iz_kamnya.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Итальянский зверь", Итальянский зверь
-https://video2.tizam.cc/files/1408405/italyanskiy_zver._1996.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Принцесса Несмеяна", Принцесса Несмеяна
-https://video2.tizam.cc/files/1664382/printsessa_nesmeyana.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Темнокожие красотки", Темнокожие красотки
-https://video2.tizam.cc/files/2215571/temnokozhie_krasotki___s_russkim_perevodom.mp4
-#EXTINF:-1  group-title="Кино_пакет"  tvg-logo="https://i.ibb.co/qMdJ4yz/s.png"   tvg-name="Икскалибур 2", Икскалибур 2
-https://video2.tizam.cc/files/1665118/ikskalibur__povelitel_seksa_2_1cd.mp4
-#EXTINF:-1  group-title="Кино_пакет"   tvg-name="Город секса 1 (2006)", Город секса 1 (2006)
-https://pl.cpnbb.net/videos/210118_22/210118_22.m3u8
-#EXTINF:-1  group-title="Кино_пакет"   tvg-name="Горячая Фелла и семь гномов (1999)", Горячая Фелла и семь гномов (1999)
-https://video2.tizam.cc/files/1479496/biancaneve_i_sete_nani.mp4
-#EXTINF:-1  group-title="Кино_пакет"   tvg-name="Охотники за приведениями (2016)", Охотники за приведениями (2016)
-https://video1.tizam.cc/films/Ghostbusters.mp4
-#EXTINF:-1  group-title="Кино_пакет"   tvg-name="Аватар (2012)", Аватар (2012)
-https://video2.tizam.cc/files/1116580/eto_ne_avatar.__avatar_hhh.mp4
 #EXTINF:-1  group-title="Кино_пакет"   tvg-name="Зена - Принцесса воин (2012)", Зена - Принцесса воин (2012)
 https://video1.tizam.cc/files/2547669/zena__porno_parodiya_na_russkom__obnovleno_hd.mp4
-#EXTINF:-1  group-title="Кино_пакет"   tvg-name="Привидение (2012)", Привидение (2012)
-https://pl.cpnbb.net/videos/130917_20/130917_20.m3u8
-#EXTINF:-1  group-title="Кино_пакет"   tvg-name="Охотники за привидениями (2011)", Охотники за привидениями (2011)
-https://video2.tizam.cc/files/2215178/eto_ne_ohotniki_za_privideniyami_hhh___2011__rus.mp4
-#EXTINF:-1  group-title="Кино_пакет"   tvg-name="Город секса 3 (2006)", Город секса 3 (2006)
-https://pl.cpnbb.net/videos/210118_20/210118_20.m3u8
-#EXTINF:-1  group-title="Кино_пакет"   tvg-name="Город секса 2 (2006)", Город секса 2 (2006)
-https://pl.cpnbb.net/videos/210118_21/210118_21.m3u8
 #EXTINF:-1  group-title="Кино_пакет"   tvg-name="Клеопатра 2: Легенда Эроса (2003)", Клеопатра 2: Легенда Эроса (2003)
 https://video1.tizam.cc/films/kleopatra_2_legenda_erosa.mp4
-#EXTINF:-1  group-title="Кино_пакет"   tvg-name="Золушка (2003)", Золушка (2003)
-https://video2.tizam.cc/files/1506111/zolushka.mp4
-#EXTINF:-1  group-title="Кино_пакет"   tvg-name="Мастер и Маргарита: Бал у Сатаны (2002)", Мастер и Маргарита: Бал у Сатаны (2002)
-https://video2.tizam.cc/files/1666467/porno_film___master_i_margarita.mp4
 #EXTINF:-1  group-title="Кино_пакет"   tvg-name="2000 лет любви (2000)", 2000 лет любви (2000)
 https://video1.tizam.cc/films/2000_let_lyubvi.mp4
 #EXTINF:-1  group-title="Кино_пакет"   tvg-name="Женщина-робот (1980)", Женщина-робот (1980)
@@ -1321,30 +803,10 @@ https://video1.tizam.cc/films/Femme-objet.mp4
 https://video2.tizam.cc/files/1397721/belosnezhka__10_let_spustya.mp4
 #EXTINF:-1  group-title="Кино_пакет"   tvg-name="Антоний и Клеопатра (1997)", Антоний и Клеопатра (1997)
 https://video2.tizam.cc/files/2135702/antoniy_i_kleopatra.mp4
-#EXTINF:-1  group-title="Кино_пакет"   tvg-name="Белоснежка и семь гномов (1996)", Белоснежка и семь гномов (1996)
-http://erozman.com/video-z8b/1469.mp4
-#EXTINF:-1  group-title="Кино_пакет"   tvg-name="Наполеон (1996)", Наполеон (1996)
-https://video2.tizam.cc/files/1635526/napoleon___s_perevodom.mp4
-#EXTINF:-1  group-title="Кино_пакет"   tvg-name="Алиса в стране порночудес (1993)", Алиса в стране порночудес (1993)
-https://video2.tizam.cc/files/1071778/alisa_v_strane_porno_chudes.mp4
 #EXTINF:-1  group-title="Кино_пакет"   tvg-name="Маркиз Де Сад (1994)", Маркиз Де Сад (1994)
 https://video1.tizam.cc/films/Marquisdesade.mp4
-#EXTINF:-1  group-title="Кино_пакет"   tvg-name="Марко Поло (1994)", Марко Поло (1994)
-https://video2.tizam.cc/files/1139244/marko_polo_polnometrazhnyy_film.mp4
 #EXTINF:-1  group-title="Кино_пакет"   tvg-name="Эротические приключения Красной шапочки (1993)", Эротические приключения Красной шапочки (1993)
 https://video1.tizam.cc/top/CappuccettoRosso.mp4
-#EXTINF:-1  group-title="Кино_пакет"   tvg-name="Калигула: Безумный Император", Калигула: Безумный Император
-https://video2.tizam.cc/files/2212332/kaligula__bezumnyy_imperator.mp4
-#EXTINF:-1  group-title="Кино_пакет"   tvg-name="Распутин: Оргии при царском дворе (1984)", Распутин: Оргии при царском дворе (1984)
-http://erozman.com/video-z8b/1314.mp4
-#EXTINF:-1  group-title="Кино_пакет"   tvg-name="Екатерина и ёе дикие жеребцы 2 (1983)", Екатерина и ёе дикие жеребцы 2 (1983)
-http://erozman.com/video-z8b/8.mp4
-#EXTINF:-1  group-title="Кино_пакет"   tvg-name="Екатерина и её дикие жеребцы 1 (1983)", Екатерина и её дикие жеребцы 1 (1983)
-http://erozman.com/video-z8b/357.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="mycamtv 1755", mycamtv 1755
-https://vod.mycamtv.net/1755.m3u8
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="#14 / Золотой век Эротики 14", #14 / Золотой век Эротики 14
-https://video2.tizam.cc/files/1648670/golden_age_erotica_14.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="(1970) Хардкор из Дании 118", (1970) Хардкор из Дании 118
 https://video1.tizam.cc/films/hardkor_iz_danii_118.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="(1972) За зеленой дверью", (1972) За зеленой дверью
@@ -1461,260 +923,64 @@ https://video1.tizam.cc/films/neveroyatnye_pervye_sceny.mp4
 https://video2.tizam.cc/films/probuzhdenie.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="(2001) Естественное Дразнение", (2001) Естественное Дразнение
 https://video1.tizam.cc/films/estestvennoe_draznenie.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="2 Suedoises a Paris / 2 Шведки В Париже", 2 Suedoises a Paris / 2 Шведки В Париже
-https://video2.tizam.cc/files/2145055/2_suedoises_a_paris___2_shvedki_v_parizhe.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="2 Похотливые сестры", 2 Похотливые сестры
-https://video2.tizam.cc/files/2144991/2_soeurs_lubriques___2_pohotlivye_sestry.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="4 Золотых фильмов в 1", 4 Золотых фильмов в 1
-https://video2.tizam.cc/files/2105140/4_zolotyh_filmov_v_1__1.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="4 любимых фильмов в 1/Love Film 4 in 1", 4 любимых фильмов в 1/Love Film 4 in 1
-https://video2.tizam.cc/files/2105144/4_lyubimyh_filmov_v_1__1.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="69 Минут Вечерние Новости 1", 69 Минут Вечерние Новости 1
-https://video2.tizam.cc/files/2307452/69_minutes_evening_news_1.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="1980: Принятие В Общество Пансионата", 1980: Принятие В Общество Пансионата
 https://video1.tizam.cc/files/2532462/initiation_au_pensionnat__aka_le_secret_des_ecoli.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="1981]", 1981]
-https://video1.tizam.cc/files/2468998/sa_frime_chez_les_minettes.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Accouplements Pour Voyeurs / Связь С Любителями", Accouplements Pour Voyeurs / Связь С Любителями
-https://video2.tizam.cc/files/2145056/accouplements_pour_voyeurs___svyaz_s_lyubitelyami.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Adorable Lola / Восхитительная Лола", Adorable Lola / Восхитительная Лола
-https://video2.tizam.cc/files/2150175/adorable_lola___voshititelnaya_lola.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Amanda By Night / Аманда ночью", Amanda By Night / Аманда ночью
-https://video2.tizam.cc/files/1647024/amanda_nochyu.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Amber Aroused / Пробуждение Амбер", Amber Aroused / Пробуждение Амбер
-https://video2.tizam.cc/files/1646669/probuzhdenie_amber___amber_aroused.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Arabica / Арабика", Arabica / Арабика
-https://video1.tizam.cc/old_films/Arabica1992.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Backseat Confidential / Тайны заднего сиденья", Backseat Confidential / Тайны заднего сиденья
-https://video2.tizam.cc/files/2305390/tayny_zadnego_sidenya.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Banane al Cioccolato / Бананы в Шоколаде (1986)", Banane al Cioccolato / Бананы в Шоколаде (1986)
-https://video2.tizam.cc/files/1199543/ciccolina.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Bangkok Boobarella\Бангкокская Золушка", Bangkok Boobarella\Бангкокская Золушка
-https://video2.tizam.cc/files/2105139/bangkokskaya_zolushka.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Belles D', Belles D'un Soir / Прекрасные Вечера
-https://video2.tizam.cc/files/2145117/belles_d_un_soir___prekrasnye_vechera.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Best Of Gabriella (1988)", Best Of Gabriella (1988)
-https://video2.tizam.cc/films/Best-Of-Gabriella.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Blondes humides / Влажные Блондинки (1978)", Blondes humides / Влажные Блондинки (1978)
-https://video1.tizam.cc/films/Blondeshumides1978.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Bra Busting Babysitters / Разорванные Бюстгальтеры Нянек", Bra Busting Babysitters / Разорванные Бюстгальтеры Нянек
-https://video2.tizam.cc/files/1638376/razorvannye_byustgaltery_nyanek.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Burning Snow / Пылающий снег", Burning Snow / Пылающий снег
-https://video1.tizam.cc/old_films/BurningSnow.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Campus Cuties / Вот такие милашки", Campus Cuties / Вот такие милашки
 https://video1.tizam.cc/files/2440887/campus_cuties.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Candy stripers / Конфетки в униформе (1978)", Candy stripers / Конфетки в униформе (1978)
-https://video2.tizam.cc/files/1646550/konfetki_v_uniforme.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="CDI Home Video)", CDI Home Video)
-https://video1.tizam.cc/films/SexFlex.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Confessions Of A Young American Housewife / Признания молодой американской домохозяйки", Confessions Of A Young American Housewife / Признания молодой американской домохозяйки
-https://video2.tizam.cc/files/2214974/priznanie_molodoy__18_let__amerikanskoy_domohozyayki.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Couple Cherche Esclaves Sexuels / Пара Разыскивает Сексуальных шлюх", Couple Cherche Esclaves Sexuels / Пара Разыскивает Сексуальных шлюх
-https://video2.tizam.cc/files/2147283/couple_cherche_esclaves_sexuels___para_razyskivaet_seksualn.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Couples Complices / Сообщники", Couples Complices / Сообщники
-https://video2.tizam.cc/files/2215158/couples_complices__1977.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Couples Voyeurs et Fesseurs / Парам нравится подглядывать", Couples Voyeurs et Fesseurs / Парам нравится подглядывать
-https://video2.tizam.cc/files/2147284/couples_voyeurs__and__fesseurs___pary_lyubyashchie_podglyadyvaniya_i_po.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Das Geile Biest Von Nebenan 5", Das Geile Biest Von Nebenan 5
-https://video2.tizam.cc/files/2432708/nena__vozbuzhdennyy_zveryok_po_sosedstvu_5.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Das Sexabitur / Аттестат половой зрелости - 1978", Das Sexabitur / Аттестат половой зрелости - 1978
-https://video2.tizam.cc/files/2301638/attestat_polovoy_zrelosti_1978.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Debbie Does Dallas / Дебби Едет в Даллас", Debbie Does Dallas / Дебби Едет в Даллас
-https://video1.tizam.cc/vk/DebbieDoesDallas.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Derriere Le Miroir Sans Tain / За Прозрачным Зеркалом", Derriere Le Miroir Sans Tain / За Прозрачным Зеркалом
-https://video2.tizam.cc/files/2154387/derriere_le_miroir_sans_tain___za_prozrachnym_zerkalom.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Desirs Sous Les Tropiques / Тропические Желания", Desirs Sous Les Tropiques / Тропические Желания
-https://video2.tizam.cc/files/2147423/desirs_sous_les_tropiques___tropicheskie_zhelaniya.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Easy cum easy go/Легкая и легко движется", Easy cum easy go/Легкая и легко движется
-https://video2.tizam.cc/files/2105156/legkaya_i_legko_dvizhetsya.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Echanges De Partenaires / Обмен Партнёрами", Echanges De Partenaires / Обмен Партнёрами
-https://video2.tizam.cc/files/2147425/echanges_de_partenaires___obmen_partnyorami.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Eclatements Charnels / Плотские страсти", Eclatements Charnels / Плотские страсти
-https://video2.tizam.cc/files/1522819/plotskie_strasti.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Educating Mandy / Обучение Мэнди / L`initiation De Mandy", Educating Mandy / Обучение Мэнди / L`initiation De Mandy
-https://video2.tizam.cc/files/1818849/obuchenie_mendi___educating_mandy__1985.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Fille Soumise / Подневольная Кэти", Fille Soumise / Подневольная Кэти
-https://video2.tizam.cc/files/2147282/cathy__fille_soumise___podnevolnaya_keti.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Hot Flashes / Горячие Вспышки", Hot Flashes / Горячие Вспышки
-https://video2.tizam.cc/files/2447602/hot_flashes__1984.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Hot Gun / Горячее Оружие", Hot Gun / Горячее Оружие
-https://video2.tizam.cc/files/1193999/retro_hhh...mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="John Christopher", John Christopher
-https://video1.tizam.cc/files/2513083/babe__1981.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="La Bete Sexuelle / Сексуальный Жеребец", La Bete Sexuelle / Сексуальный Жеребец
-https://video2.tizam.cc/files/2147604/la_bete_sexuelle___seksualnyy__zver.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="La cage aux partouzes / Обитель для оргий", La cage aux partouzes / Обитель для оргий
-https://video2.tizam.cc/files/1815363/la_cage_aux_partouzes__1977.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Le Retour De Marilyn / Возвращение Мэрилин", Le Retour De Marilyn / Возвращение Мэрилин
-https://video2.tizam.cc/files/1986372/vozvrashchenie_merilin.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Les Bas De Soie Noire / Чёрные Шелковые Чулки", Les Bas De Soie Noire / Чёрные Шелковые Чулки
-https://video2.tizam.cc/files/2155300/les_bas_de_soie_noire___chyornye_shelkovye_chulki.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Les Delices De L', Les Delices De L'adultere / Наслаждение Супружеской Измены
-https://video2.tizam.cc/files/2147757/les_delices_de_l_adultere___naslazhdenie_supruzheskoy_izmeny.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Les Hotesses Du Sexe / Властелины Секса", Les Hotesses Du Sexe / Властелины Секса
-https://video2.tizam.cc/files/2147758/les_hotesses_du_sexe___vlasteliny_seksa.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Les Petites ecolieres / Маленькие школьницы", Les Petites ecolieres / Маленькие школьницы
-https://video2.tizam.cc/files/2215726/malenkie_shkolnitsy__18_let____the_little_schoolgirls___1980.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Love Me or Leave / Люби меня или оставь в покое", Love Me or Leave / Люби меня или оставь в покое
-https://video2.tizam.cc/files/1748478/love_me_or_leave.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Maud et Richard", Maud et Richard
-https://video2.tizam.cc/files/1948278/moi_nochi_s_alisoy__penelopoy__arnoldom__mod_i_risharom_1976.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Moment of Cumshot / Момент Камшота", Moment of Cumshot / Момент Камшота
-https://video2.tizam.cc/files/2215133/moment_of_cumshot.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Nazi Sexperiments / Нацистские Секс Эксперименты (1970г.)", Nazi Sexperiments / Нацистские Секс Эксперименты (1970г.)
-https://video2.tizam.cc/files/1539016/sekc_eksperimenty_1970.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Petites Annonces Tres Speciales / Небольшое Специальное Объявление", Petites Annonces Tres Speciales / Небольшое Специальное Объявление
-https://video2.tizam.cc/files/2155363/petites_annonces_tres_speciales___nebolshoe_spetsialnoe_obya.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Plaisirs Sauvages / Дикие Удовольствия", Plaisirs Sauvages / Дикие Удовольствия
-https://video2.tizam.cc/files/2155318/plaisirs_sauvages___dikie_udovolstviya.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Sperma Hotel / Отель спермы", Sperma Hotel / Отель спермы
 https://video1.tizam.cc/files/2469409/sperma_hotel.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="The Brides Initiation / Инициация невесты (1976)", The Brides Initiation / Инициация невесты (1976)
-https://video2.tizam.cc/files/2254952/the_brides_initiation___initsiatsiya_nevesty___1976.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="The Budding Of Brie / Подающая надежда Бри", The Budding Of Brie / Подающая надежда Бри
-https://video2.tizam.cc/files/1646582/podayushchaya_nadezhdy_bri.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="The Liberty Belles/Бесцеремонные Красотки", The Liberty Belles/Бесцеремонные Красотки
-https://video2.tizam.cc/files/2105087/bestseremonnye_krasotki.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Un Bon Client/Любвеобильный клиент", Un Bon Client/Любвеобильный клиент
-https://video2.tizam.cc/files/2105037/lyubveobilnyy_klient.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="V Горячее (1977)", V Горячее (1977)
-https://video2.tizam.cc/films/V-The-Hot-One.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Vampire Strangler / Вампир душитель 1999", Vampire Strangler / Вампир душитель 1999
-https://video1.tizam.cc/vk/VampireStrangler1999.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="VCA)", VCA)
-https://video1.tizam.cc/films/Cyberanal.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="WPINK-ТВ: Горячая краснота", WPINK-ТВ: Горячая краснота
-https://video1.tizam.cc/films/Its-Red-Hot.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Автобиография Флеи", Автобиография Флеи
 https://video1.tizam.cc/files/2549614/the_autobiography_of_a_flea.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Адам и Ева: Девушки Которые Любят Это Делать", Адам и Ева: Девушки Которые Любят Это Делать
 https://video1.tizam.cc/films/adam_i_eva_devushki_kotorye_lyubyat_eto_delat.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Аллея анала", Аллея анала
-https://video2.tizam.cc/files/2105045/alleya_anala.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Амберелла Агент испытатель / Amberella Agent of Lust (1986)", Амберелла Агент испытатель / Amberella Agent of Lust (1986)
-https://video2.tizam.cc/files/2252994/amberella___agent_of_lust__1986.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Американский пирог", Американский пирог
-https://video2.tizam.cc/files/2105109/amerikanskiy_pirog.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Амос и Леденцы/Amos & Cand", Амос и Леденцы/Amos & Cand
-https://video2.tizam.cc/files/2043132/retro_film_s_otlichnymi_krasotkami.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Анальная блондинка для двойного проникновения", Анальная блондинка для двойного проникновения
 https://video1.tizam.cc/films/AnalDPBlondeAConniePetersCollection.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Анальная Вечеринка (1990)", Анальная Вечеринка (1990)
 https://video1.tizam.cc/files/2474412/anale_teeny_party__1994.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Анальное Буйство 2 / Anal Rampage 2", Анальное Буйство 2 / Anal Rampage 2
 https://video1.tizam.cc/old_films/Anal-Rampage-2.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Анальное вторжение 3", Анальное вторжение 3
-https://video2.tizam.cc/files/2103777/steven_crox.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Анальный Беспредел В Интернате", Анальный Беспредел В Интернате
 https://video1.tizam.cc/vk/IVizianalidellecollegiali1998.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Анальный Госпиталь / Anal Hospital", Анальный Госпиталь / Anal Hospital
-https://video2.tizam.cc/files/2105035/analnyy_gospital.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Ангел в беде", Ангел в беде
-https://video2.tizam.cc/files/2418690/angel_in_distress.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Ангелы Хонки Тонк", Ангелы Хонки Тонк
 https://video1.tizam.cc/vk/HonkyTonkAngels.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Аннетта Хэвен: Элегантная леди", Аннетта Хэвен: Элегантная леди
 https://video1.tizam.cc/files/2447560/annette_haven_the_elegant_lady.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Аристократичность Виолы 7", Аристократичность Виолы 7
-https://video2.tizam.cc/files/1361492/retro_hhh_84god.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Аромат Женщины", Аромат Женщины
 https://video1.tizam.cc/files/2462111/loch_um_loch___der_italienische_stecher.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Артист эротики", Артист эротики
-https://video2.tizam.cc/files/2371420/oh__that_erotic_art___artist_erotiki__1971.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Бабетт Французская детка / Babette - French Baby", Бабетт Французская детка / Babette - French Baby
-https://video2.tizam.cc/files/1630053/babette___french_baby.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Бабочки и жеребцы", Бабочки и жеребцы
-https://video2.tizam.cc/files/2429906/borboletas_e_garanhoes.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="бам - благодарю мадам", бам - благодарю мадам
-https://video2.tizam.cc/files/1811167/slam_bam_thank_you_ma_am__1997.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Банда преступников / Comando Explicito", Банда преступников / Comando Explicito
-https://video2.tizam.cc/files/2140869/comando_explicito__1986.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Батл порнозвезд:Гингер Лунн и Нина Хартли", Батл порнозвезд:Гингер Лунн и Нина Хартли
-https://video2.tizam.cc/files/2401192/batl_pornozvezd.ginger_lynn_vs._nina_hartley.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Баттман снимает девушек / Buttmans Bend Over Babes", Баттман снимает девушек / Buttmans Bend Over Babes
 https://video1.tizam.cc/old_films/ButtmansBendOverBabes1.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Беги Джексон беги", Беги Джексон беги
-https://video2.tizam.cc/files/2307487/run_jackson_run__1972_classic.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Беглянка Бигги", Беглянка Бигги
-https://video2.tizam.cc/files/2156261/biggi_eine_ausreisserin___beglyanka_biggi.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Без ума от тебя / Mad About You", Без ума от тебя / Mad About You
 https://video1.tizam.cc/files/2440921/mad_about_you.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Бездомная кошка / Alley Cat", Бездомная кошка / Alley Cat
-https://video2.tizam.cc/files/2122573/alley_cat_1973.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Безжалостные Женщины / Ruthless Women", Безжалостные Женщины / Ruthless Women
 https://video1.tizam.cc/new_films/RuthlessWomen.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Безумная история любви страстного вампира", Безумная история любви страстного вампира
 https://video1.tizam.cc/files/2440922/mad_love_life_of_a_hot_vampire.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Безумный Кемпинг", Безумный Кемпинг
 https://video1.tizam.cc/films/LeCampingenfolie.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Бери меня", Бери меня
-https://video2.tizam.cc/files/2284684/je_suis_a_prendre__i_am_yours_to_take___1978.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Берлинский скачок / The Berlin Caper! (1989)", Берлинский скачок / The Berlin Caper! (1989)
-https://video2.tizam.cc/files/2142839/film_the_berlin_caper___1989.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Бесстыдная Одержимость / Bold Obsession", Бесстыдная Одержимость / Bold Obsession
-https://video2.tizam.cc/files/2105033/besstydnaya_oderzhimost.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Близнецы 1-2/Joined 1-2", Близнецы 1-2/Joined 1-2
-https://video2.tizam.cc/files/2105057/bliznetsy_1.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Блуд с Зависимыми / Unzucht mit Abhangigen. 1980", Блуд с Зависимыми / Unzucht mit Abhangigen. 1980
 https://video1.tizam.cc/films/Unzucht-mit-Abhangigen.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Блудливые Инопланетяне / Fornicating Aliens", Блудливые Инопланетяне / Fornicating Aliens
 https://video1.tizam.cc/old_films/FornicatingAliens.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Боксер / The Boxer", Боксер / The Boxer
-https://video2.tizam.cc/files/2306573/the_boxer.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Боксёр 3: Последний бой", Боксёр 3: Последний бой
-https://video2.tizam.cc/files/2306575/the_boxer_3.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Больше грязных Дебютанток 54", Больше грязных Дебютанток 54
-https://video2.tizam.cc/files/2103997/bolshe_gryaznyh_debyutantok_54___more_dirty_debutantes_54.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Больше чем сестры / More Than Sisters", Больше чем сестры / More Than Sisters
 https://video1.tizam.cc/films/ThanSisters1979.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Большие Сиськи И Черные Члены (1970", Большие Сиськи И Черные Члены (1970
-https://video2.tizam.cc/files/2549597/big_tits_and_black_dicks.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Большие сиськи супер звезд 80-ых: Титанически Натуральные", Большие сиськи супер звезд 80-ых: Титанически Натуральные
-https://video2.tizam.cc/files/1260526/titanic_naturals___starring_mary_waters.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Большие сиськи супер звезд 80ых: Хельга Свен - Грудастые старше 40", Большие сиськи супер звезд 80ых: Хельга Свен - Грудастые старше 40
 https://video1.tizam.cc/films/BigTitSuperStarsOfThe80s.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Большой Бюст Дамочек 9", Большой Бюст Дамочек 9
-https://video2.tizam.cc/files/2318002/big_bust_babes_9.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Большой Кайф / The Big Thrill (1984)", Большой Кайф / The Big Thrill (1984)
-https://video1.tizam.cc/films/The-Big-Thrill.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Большой оркестр", Большой оркестр
 https://video1.tizam.cc/files/2469033/les_grandes_pompeuses.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Большой секс / La Grande Partouze", Большой секс / La Grande Partouze
-https://video2.tizam.cc/files/2147614/la_grande_partouze___priklyucheniya_parochki.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Бордель для женщин / Bordel pour Femmes", Бордель для женщин / Bordel pour Femmes
-https://video2.tizam.cc/files/1320761/bordel_pour_femmes_classic_porn_80.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Бордель СС", Бордель СС
-https://video2.tizam.cc/films/Bordell-SS.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Бригада девушек по вызову", Бригада девушек по вызову
 https://video1.tizam.cc/old_films/Brigadecallgirls1977.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Бритые подростки / Shaved Teenagers", Бритые подростки / Shaved Teenagers
-https://video2.tizam.cc/files/2432706/seventeen_special_10_shaved_teenagers.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Бродяги / Brummi Bums", Бродяги / Brummi Bums
-https://video2.tizam.cc/files/2207821/film_brodyagi.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Бэйби / Baby doll (1975) Arrow", Бэйби / Baby doll (1975) Arrow
 https://video1.tizam.cc/files/2546320/baby_doll.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="В горячую свекровь", В горячую свекровь
-https://video2.tizam.cc/files/1568121/doch___potaskuha___la_figlia_puttana__1991.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="В первый раз / The First Time", В первый раз / The First Time
 https://video1.tizam.cc/vk/TheFirstTime.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="В Пламени Огня / Up In Flames (1977)", В Пламени Огня / Up In Flames (1977)
 https://video1.tizam.cc/vk/UpInFlames.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Вазелиновый переулок", Вазелиновый переулок
 https://video1.tizam.cc/files/2435700/vasoline_alley.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Вальс летучей мыши", Вальс летучей мыши
-https://video2.tizam.cc/files/2398769/vals_letuchey_myshi___waltz_of_the_bat__1972.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Вербовщица / La Rabatteuse - 1977", Вербовщица / La Rabatteuse - 1977
-https://video2.tizam.cc/files/1581238/verbovshchitsa_1977.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Веселая Клиника", Веселая Клиника
-https://video2.tizam.cc/files/1716254/veselaya_klinika.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Веселая семейка", Веселая семейка
-https://video2.tizam.cc/files/2156267/geile_krperspiele___sexhochzeit_im_narrenkfig___igry_tela.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Весело в лицо", Весело в лицо
 https://video1.tizam.cc/films/FunInTheFace.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Вечера Для Развращения Супруги (1980)", Вечера Для Развращения Супруги (1980)
 https://video1.tizam.cc/films/Les-Soirees-Dune-Epouse-Pervertie.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Вечеринка любителей подсматривать / Les Enfilees Les Soirees D', Вечеринка любителей подсматривать / Les Enfilees Les Soirees D'un Couple Voyer
-https://video2.tizam.cc/files/1630195/les_enfilees_les_soirees_d_un_couple_voyer.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Вечный Трах / Verfickt in alle Ewigkeit (1995)", Вечный Трах / Verfickt in alle Ewigkeit (1995)
 https://video1.tizam.cc/films/Verfickt-in-alle-Ewigkeit.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Взрывное свидания", Взрывное свидания
@@ -1723,8 +989,6 @@ https://video1.tizam.cc/files/2445092/vzryvnoe_svidaniya.mp4
 https://video1.tizam.cc/films/BroadwayBrat.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Визажист Келли Николс", Визажист Келли Николс
 https://video1.tizam.cc/files/2450721/kelly_nichols_the_make_up_artist.mp4
-#EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Вкус Майами / Miami Spice - 1986", Вкус Майами / Miami Spice - 1986
-https://video1.tizam.cc/films/MiamiSpice.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Вкус Майами 2 / Miami Spice 2", Вкус Майами 2 / Miami Spice 2
 https://video1.tizam.cc/films/MiamiSpice2.mp4
 #EXTINF:-1  group-title="XXX_movies_OLD"   tvg-name="Владения", Владения
